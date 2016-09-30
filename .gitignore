@@ -250,3 +250,8 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/NHibernateBusinessDomainVSIX/Business.Domain.NHibernate.NUnitTests
+/NHibernateBusinessDomainVSIX/Business.Domain.NHibernate
+/NHibernateBusinessDomainVSIX/Business.Domain
+/Business.Domain
+/NHibernateBusinessDomainVSIX/NHibernateBusinessDomainVSIX
